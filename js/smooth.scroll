@@ -1,0 +1,8 @@
+/*!
+* smooth-scroll v15.0.0: Amimate scrolling to anchor links
+* (c) 2018 Chris Ferdinandi
+* MIT License
+* http://github.com/cferdinadi/smooth/smooth-scroll
+*/
+
+(function (root, factory) {
